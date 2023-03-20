@@ -1,2 +1,3 @@
 Hello, Hexlet!
-new line
+1 new line
+2
