@@ -1,5 +1,5 @@
 new line 2
-new line 3
+new line
 new line 4
 
 funcion doSomething (firstVar) {
@@ -12,7 +12,7 @@ funcion doSomething (firstVar) {
 }
 // commentary
 var newVar = 5;
-new line 1
+new line
 new line 5
 add new line
 add new 2 line
