@@ -8,6 +8,7 @@ funcion doSomething (firstVar) {
 		secondVar = secondVar * i;
 		console.log(i, secondVar);
 	}
+	//
 }
 // commentary
 var newVar = 5;
