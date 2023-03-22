@@ -11,7 +11,7 @@ funcion doSomething (firstVar) {
 	}
 	//
 }
-// commentary
+// commentary new text
 var newVar = 5;
 new line
 new line 5
