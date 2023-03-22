@@ -5,7 +5,7 @@ new line 4
 funcion doSomething (firstVar) {
 	var secondVar = 0;
 	for (var i = 0; i < 10; i++) {
-		secondVar = secondVar * i;
+		secondVar = secondVar + i;
 		console.log(i, secondVar);
 	}
 	//
